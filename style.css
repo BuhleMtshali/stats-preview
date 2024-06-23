@@ -6,7 +6,6 @@ h1 {
   color: white;
   font-size: 45px;
   font-weight: 700;
-  margin-bottom: 20px;
 }
 .purple-text {
   color: hsl(277, 64%, 61%);
@@ -14,7 +13,6 @@ h1 {
 .text {
   color: hsla(0, 0%, 100%, 0.75);
   font-size: 16px;
-  margin-bottom: 40px;
 }
 img {
   width: 520px;
@@ -24,10 +22,6 @@ img {
 }
 #left {
   background-color: hsl(244, 38%, 16%);
-  padding-bottom: 0;
-  padding-top: 30px;
-  padding-left: 50px;
-  padding-right: 0;
 }
 .container {
   width: 1440px;
